@@ -14,3 +14,5 @@ Soc | Boards |
 
 - 中文链接：     http://www.orangepi.cn
 - English link：http://www.orangepi.org
+
+- reference: https://blog.csdn.net/qq_28997215/article/details/117743999 
